@@ -1,5 +1,5 @@
-p{div- 
-color: red;
+
+p{ color: red;
 text-decoration: line-through;
 }
 
@@ -14,17 +14,17 @@ padding-top: 40px;
 padding-bottom: 40px;
 padding-left: 40px;
 padding-right: 40px;
-border-top: 5px;
-border-left: 5px;
-border-bottom: 5px;
-border-right: 5px;
+
 border-style: solid;
 border-width: 1px;
 border-color: "#000000";
-
-
 }
 body {background-color: #808080; 
 font-family: sans-serif;
 }
 h2{text-decoration: underline;}
+.spotlight {
+  background-color: #FEFE22;
+  }
+h2, p {
+color: #006400
